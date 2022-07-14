@@ -1,4 +1,5 @@
 # Khokha_Meets
+<img src="./pictures/4.png" width="1000"> <br>
 **This is a video conferencing web application which connects friends family and colleagues and allows them to chat, voice over talk, and exchnage ideas over a collaborative white board.**
 ## Dependencies used
    * [Mongoose](https://mongoosejs.com/docs/)
