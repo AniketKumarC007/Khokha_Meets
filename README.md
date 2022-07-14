@@ -11,7 +11,7 @@
    * [Nodemailer](https://nodemailer.com/about/)
 ## Installation
 ### Cloning the repository:
-- Clone the repository using `git clone https://github.com/Pranay922/Khokha_Meets.git` .
+- Clone the repository using `git clone https://github.com/AniketKumarC007/Khokha_Meets` .
 ### Installing dependencies:
 - Run `npm install`.
 
